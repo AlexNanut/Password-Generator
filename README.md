@@ -40,4 +40,4 @@ In order to complete this challange, I applied the skills that I leard in the pa
 
 Below is the link to the deployed application: 
 
-
+https://alexnanut.github.io/Password-Generator/ 
