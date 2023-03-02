@@ -31,7 +31,7 @@ I have applied the essential criteria as follows:
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](.HOMEWORK 3/Assets/03-javascript-homework-demo.png)
+![The Password Generator application displays a red button to "Generate Password".]https://github.com/AlexNanut/Password-Generator/blob/main/Assets/03-javascript-homework-demo.png
 
 # Built With
 
